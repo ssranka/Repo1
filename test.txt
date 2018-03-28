@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 6CB6-A7A5
+
+ Directory of C:\Users\Shweta Archit Sinha\Desktop\MyProject
+
+03/27/2018  07:19 PM    <DIR>          .
+03/27/2018  07:19 PM    <DIR>          ..
+03/27/2018  07:19 PM                 0 test.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  435,013,558,272 bytes free
